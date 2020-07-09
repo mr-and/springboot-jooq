@@ -1,7 +1,7 @@
-package com.tej.JooQDemo.controller;
+package com.task.bft.controller;
 
-import com.tej.JooQDemo.dto.RgnKpyCodeDto;
-import com.tej.JooQDemo.service.RgnService;
+import com.task.bft.dto.RgnKpyCodeDto;
+import com.task.bft.service.RgnService;
 import java.util.List;
 import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;

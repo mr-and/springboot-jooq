@@ -1,4 +1,4 @@
-package com.tej.JooQDemo.service;
+package com.task.bft.service;
 
 import com.tej.JooQDemo.jooq.sample.model.Tables;
 import com.tej.JooQDemo.jooq.sample.model.tables.pojos.RefDict;

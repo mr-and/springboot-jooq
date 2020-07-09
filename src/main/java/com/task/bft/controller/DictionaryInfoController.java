@@ -1,11 +1,11 @@
-package com.tej.JooQDemo.controller;
+package com.task.bft.controller;
 
-import com.tej.JooQDemo.dto.DictLineDto;
+import com.task.bft.dto.DictLineDto;
 import com.tej.JooQDemo.jooq.sample.model.tables.pojos.RefDict;
 import com.tej.JooQDemo.jooq.sample.model.tables.pojos.RefFdo;
 import com.tej.JooQDemo.jooq.sample.model.tables.pojos.RefRgn;
 import com.tej.JooQDemo.jooq.sample.model.tables.pojos.RefSzn;
-import com.tej.JooQDemo.service.DictionaryService;
+import com.task.bft.service.DictionaryService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

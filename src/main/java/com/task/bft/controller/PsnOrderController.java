@@ -1,6 +1,6 @@
-package com.tej.JooQDemo.controller;
+package com.task.bft.controller;
 
-import com.tej.JooQDemo.service.PsnOrderService;
+import com.task.bft.service.PsnOrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

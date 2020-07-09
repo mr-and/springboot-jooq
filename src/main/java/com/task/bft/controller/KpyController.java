@@ -1,6 +1,6 @@
-package com.tej.JooQDemo.controller;
+package com.task.bft.controller;
 
-import com.tej.JooQDemo.service.KpyService;
+import com.task.bft.service.KpyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

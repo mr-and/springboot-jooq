@@ -1,4 +1,4 @@
-package com.tej.JooQDemo.dto;
+package com.task.bft.dto;
 
 import java.io.Serializable;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.tej.JooQDemo.service;
+package com.task.bft.service;
 
 import static org.jooq.impl.DSL.count;
 
@@ -23,6 +23,7 @@ public class RgnService {
     this.context = context;
   }
 
+  // Вывод регионов с кол-вом личных дел в них
   public Result<Record3<String, Integer, String>> getRgnWithCountKpyAndCode() {
     return context
         .select(
